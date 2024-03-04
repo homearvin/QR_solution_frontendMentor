@@ -16,7 +16,7 @@ body {
 }
 
 img {
-  max-width: 300px; /* Adjusted max-width */
+  max-width: 300px;
   max-height: auto;
   border-radius: 10px;
 }
